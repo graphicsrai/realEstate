@@ -1,0 +1,104 @@
+{
+    "properties":[
+        {
+            "id":1,
+            "name":"villa",
+            "address":"Banglaure",
+            "price":"35L",
+            "area":"1500-SF",
+            "description":"Modern Balcony Grill Design 2022 | Balcony Handrail Railing Design | Balcony Stainless Steel Railing",
+            "img":"https://i.pinimg.com/564x/bf/86/ba/bf86bacacb694cc8f85c47307bc9ab96.jpg",
+            "type":"residential"
+        },
+        {
+            "id":2,
+            "name":"villa 2",
+            "address":"Hosa Road Banglaure",
+            "price":"40L",
+            "area":"1600-SF",
+            "description":"Modern Balcony Grill Design 2022 | Balcony Handrail Railing Design | Balcony Stainless Steel Railing",
+            "img":"https://i.pinimg.com/564x/d7/d4/af/d7d4af6db551114de362dac841496867.jpg",
+            "type":"residential"
+        },
+        {
+            "id":3,
+            "name":"villa 3",
+            "address":"BTM Banglaure",
+            "price":"60L",
+            "area":"1200-SF",
+            "description":"Architect Home Design on Instagram: Follow: @architect_design_home Everyday ⁠ ",
+            "img":"https://i.pinimg.com/564x/db/55/e3/db55e3ee350b0e5ee42b87199bceaf09.jpg",
+            "type":"residential"
+        },
+        {
+            "id":4,
+            "name":"villa 4",
+            "address":"BTM Banglaure",
+            "price":"60L",
+            "area":"1200-SF",
+            "description":"Architect Home Design on Instagram: Follow: @architect_design_home Everyday ⁠ ",
+            "img":"https://i.pinimg.com/564x/d7/91/bd/d791bde3c13070d369ff7e3342efd23a.jpg",
+            "type":"residential"
+        },
+        {
+            "id":5,
+            "name":"villa 5",
+            "address":"BTM Banglaure",
+            "price":"60L",
+            "area":"1200-SF",
+            "description":"Architect Home Design on Instagram: Follow: @architect_design_home Everyday ⁠ ",
+            "img":"https://i.pinimg.com/236x/81/a4/b7/81a4b7c721f054ccf4e7fabc4fa1d98c.jpg",
+            "type":"residential"
+        },
+        {
+            "id":6,
+            "name":"Office 1",
+            "address":"BTM Banglaure",
+            "price":"60L",
+            "area":"1200-SF",
+            "description":"Architect Home Design on Instagram: Follow: @architect_design_home Everyday⁠ ",
+            "img":"https://i.pinimg.com/236x/a7/3f/41/a73f413527fd8f23d2cbf778a70b73c8.jpg",
+            "type":"commercial"
+        },
+        {
+            "id":7,
+            "name":"Office 2",
+            "address":"BTM Banglaure",
+            "price":"60L",
+            "area":"1200-SF",
+            "description":"Architect Home Design on Instagram: Follow: @architect_design_home Everyday ⁠ ",
+            "img":"https://i.pinimg.com/236x/89/3b/f8/893bf8badca0c480b3f52d1216cd943f.jpg",
+            "type":"commercial"
+        },
+        {
+            "id":8,
+            "name":"Office 3",
+            "address":"BTM Banglaure",
+            "price":"60L",
+            "area":"1200-SF",
+            "description":"Architect Home Design on Instagram: Follow: @architect_design_home Everyday ⁠ ",
+            "img":"https://i.pinimg.com/236x/79/68/5c/79685c70dd3f3bb042e27bbcda411025.jpg",
+            "type":"commercial"
+        },
+        {
+            "id":9,
+            "name":"Office 4",
+            "address":"BTM Banglaure",
+            "price":"60L",
+            "area":"1200-SF",
+            "description":"Architect Home Design on Instagram: Follow: @architect_design_home Everyday ⁠ ",
+            "img":"https://i.pinimg.com/236x/a9/c5/f3/a9c5f37cf01d59aaa5260d5e56af648f.jpg",
+            "type":"commercial"
+        },
+        {
+            "id":10,
+            "name":"Office 5",
+            "address":"BTM Banglaure",
+            "price":"60L",
+            "area":"1200-SF",
+            "description":"Architect Home Design on Instagram: Follow: @architect_design_home Everyday ⁠ ",
+            "img":"https://i.pinimg.com/236x/96/b9/9b/96b99b832f930a06e9d749fc98571f08.jpg",
+            "type":"commercial"
+        }
+    ]
+}

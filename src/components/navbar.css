@@ -1,0 +1,38 @@
+.bg{
+    background-color: rgb(238, 236, 236) !important;
+}
+.logo i{
+    font-size: 30px;
+}
+.logo span{
+    font-size: 20px;
+}
+.search{
+    display: flex;
+    width: 210px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+}
+.search input,.search input:focus, .search input:active{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+.search .icon{
+    margin-left: 3px;
+    height: 100%;
+    width: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    
+}
+button{
+    height: 25px;
+    padding: 0 5px !important;
+    font-size: 15px !important;
+    margin-top: -7px;
+}

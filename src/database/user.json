@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "mohitrai",
+      "email": "mohit@gmail.com",
+      "password": "123456"
+    },
+    {
+      "username": "pinku",
+      "email": "pinku@gmail.com",
+      "password": "7777777",
+      "id": 2
+    },
+    {
+      "username": "ram",
+      "email": "ram@gmail.com",
+      "password": "108108",
+      "id": 3
+    },
+    {
+      "username": "chanchal",
+      "email": "chanchal@gmal.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "username": "Rama",
+      "email": "rama@gmail.com",
+      "password": "108108",
+      "id": 5
+    },
+    {
+      "username": "Sita",
+      "email": "sita@gmail.com",
+      "password": "4444",
+      "id": 6
+    }
+  ]
+}
